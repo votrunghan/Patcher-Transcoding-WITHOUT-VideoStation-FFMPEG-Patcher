@@ -38,9 +38,13 @@ With options:
 
 Dùng lệnh sau:
 `sudo -i`
-wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh`
-chmod +x patcher.sh`
-./patcher.sh`
+
+`wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh`
+
+`chmod +x patcher.sh`
+
+`./patcher.sh`
+
 
 | Flags | Required | Description                                                                               | Default            |
 |-------|----------|-------------------------------------------------------------------------------------------|--------------------|
