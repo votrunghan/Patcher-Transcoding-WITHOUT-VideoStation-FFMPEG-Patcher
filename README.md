@@ -37,6 +37,7 @@ With options:
 `curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash -s -- <flags>`
 
 Dùng lệnh sau:
+
 `sudo -i`
 
 `wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh`
