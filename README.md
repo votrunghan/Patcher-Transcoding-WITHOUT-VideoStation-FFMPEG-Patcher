@@ -1,5 +1,15 @@
 # VideoStation-FFMPEG-Patcher
 
+### Dùng lệnh sau để Patcher-Transcoding-WITHOUT-VideoStation-FFMPEG:
+
+`sudo -i`
+
+`wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh`
+
+`chmod +x patcher.sh`
+
+`./patcher.sh`
+
 <p align="center">
   <img src="https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher/blob/main/banner.png?raw=true" height=200px alt="Banner">
 </p>
@@ -35,16 +45,6 @@ Basic command:
 `curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash`   
 With options:  
 `curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash -s -- <flags>`
-
-Dùng lệnh sau:
-
-`sudo -i`
-
-`wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh`
-
-`chmod +x patcher.sh`
-
-`./patcher.sh`
 
 
 | Flags | Required | Description                                                                               | Default            |
