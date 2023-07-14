@@ -36,6 +36,12 @@ Basic command:
 With options:  
 `curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash -s -- <flags>`
 
+Dùng lệnh sau:
+'sudo -i'
+'wget https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh'
+'chmod +x patcher.sh'
+'./patcher.sh'
+
 | Flags | Required | Description                                                                               | Default            |
 |-------|----------|-------------------------------------------------------------------------------------------|--------------------|
 | -a    | No       | Action flag: choose between `patch` or `unpatch` ; example: `-a patch`                    | patch              |
