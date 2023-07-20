@@ -10,6 +10,10 @@
 
 `./patcher.sh`
 
+
+Hoặc nhanh: 
+`bash -c "$(curl "https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/master/patcher.sh")"`
+
 <p align="center">
   <img src="https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher/blob/main/banner.png?raw=true" height=200px alt="Banner">
 </p>
